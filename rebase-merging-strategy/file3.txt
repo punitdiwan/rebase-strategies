@@ -1,1 +1,5 @@
-Finally, last thing was added here!
+purpose of git rebase 
+
+Finally, the last thing was added here!
+
+done
