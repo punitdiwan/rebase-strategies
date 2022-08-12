@@ -1,4 +1,9 @@
 
+purpose of git rebase 
+
+Finally, the last thing was added here!
+
+done
 
 dangis first line added
 Finally, last thing was added here! change in line
